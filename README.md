@@ -1,4 +1,4 @@
-# Sistem Akademik Mahasiswa
+# Sistem Sales
 Sebuah program sederhana untuk menampilkan data sales. Menggunakan MySQL sebagai database, dan menggunakan bahasa pemrograman PHP.
 
 ## Fitur
